@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'camera-app',
+  appId: 'us.code.moosecodes.camera',
+  appName: 'camera example app',
   webDir: 'www',
   bundledWebRuntime: false
 };

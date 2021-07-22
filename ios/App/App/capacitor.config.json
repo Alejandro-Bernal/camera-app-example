@@ -1,0 +1,6 @@
+{
+	"appId": "us.code.moosecodes.camera",
+	"appName": "camera example app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
